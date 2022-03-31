@@ -1,0 +1,214 @@
+{
+  "games": [
+    {
+      "id": 0,
+      "name": "inFAMOUS",
+      "year": "2009",
+      "score": "8,0",
+      "platform": "Playstation 3",
+      "category": "Action",
+      "description": "inFAMOUS is a 3rd person action adventure open world title in which the main character Cole MacGrat ends up with electricity-based super powers after being caught in an explosion. The player follows the story through a heavily influenced comic book approach, and can decide to play towards a good or evil paths with Cole's powers. These choices ultimately affect character growth, the reaction of the City's populace towards Cole, and finer elements of gameplay and the story.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2idj.png",
+      "isFinished": true
+    },
+    {
+      "id": 1,
+      "name": "Legend of Mana",
+      "year": "1999",
+      "score": "8,1",
+      "platform": "Playstation 1",
+      "category": "RPG",
+      "description": "While incorporating action role-playing game elements from the three games which preceded it, Legend of Mana has its own distinct style of gameplay. Most notably, it gives the player the ability to shape the game's world of Fa'Diel according to his or her desires, a system which was incorporated through the use of 'artifacts', which are gained as the player progresses through the game. The player uses the artifacts to create different towns, dungeons, etc., called 'Lands', to venture to and explore. This creates a non-linear gameplay, since the game is driven by a series of what would be considered side-quests in other games. Legend of Mana features three different plots which can occur simultaneously, and which do not necessarily need to be completed for the player to finish the game. Legend of Mana was a financial success in Japan. While the game garnered considerable praise for its graphics and presentation, many critics and fans were turned off by the game's lack of a main storyline.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25t0.png",
+      "isFinished": false
+    },
+    {
+      "id": 2,
+      "name": "Batman Arkham Knight",
+      "year": "2015",
+      "score": "9,2",
+      "platform": "Playstation 4",
+      "category": "Adventure",
+      "description": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nh1.png",
+      "isFinished": true
+    },
+    {
+      "id": 3,
+      "name": "Super Mario Odyssey",
+      "year": "2017",
+      "score": "9,7",
+      "platform": "Nintendo Switch",
+      "category": "Platform",
+      "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.png",
+      "isFinished": true
+    },
+    {
+      "id": 4,
+      "name": "The Legend Of Zelda: Breath of the Wild",
+      "year": "2017",
+      "score": "9,8",
+      "platform": "Nintendo Switch",
+      "category": "RPG",
+      "description": "In this 3D open-world entry in the Zelda series, Link is awakened from a deep slumber without his past memories in the post-apocalyptic Kingdom of Hyrule, and sets off on a journey to defeat the ancient evil Calamity Ganon. Link treks, climbs and glides through fields, forests and mountain ranges while meeting and helping friendly folk and defeating enemies in order to gather up the strength to face Ganon.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.png",
+      "isFinished": true
+    },
+    {
+      "id": 5,
+      "name": "Pokemon Red",
+      "year": "1996",
+      "score": "7,5",
+      "platform": "Game Boy",
+      "category": "RPG",
+      "description": "Pokémon Red Version, along with Pokémon Green Version, are the first video games in the Pokémon series of games. They are the first primary paired versions of Generation I, developed by Game Freak and published by Nintendo for the handheld Game Boy. Developed over the course of several years, Red and Green established several standards for later Pokémon games and sequels. They take place in the Kanto region, with the player having to collect eight Gym Badges to become the Pokémon Champion while also completing the Pokédex by collecting all 151 Pokémon.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2s5t.png",
+      "isFinished": false
+    }
+  ],
+  "platform": [
+    {
+      "id": 2,
+      "platform": "Playstation 3"
+    },
+    {
+      "platform": "Playstation 1",
+      "id": 0
+    },
+    {
+      "platform": "Playstation 2",
+      "id": 1
+    },
+    {
+      "platform": "Playstation 4",
+      "id": 3
+    },
+    {
+      "platform": "Playstation 5",
+      "id": 4
+    },
+    {
+      "platform": "Nintendo Entertainment System",
+      "id": 5
+    },
+    {
+      "platform": "Super Nintendo Entertainment System",
+      "id": 6
+    },
+    {
+      "platform": "Nintendo 64",
+      "id": 7
+    },
+    {
+      "platform": "Game Cube",
+      "id": 8
+    },
+    {
+      "platform": "Nintendo Wii",
+      "id": 9
+    },
+    {
+      "platform": "Nintendo Wii U",
+      "id": 10
+    },
+    {
+      "platform": "Nintendo Switch",
+      "id": 11
+    },
+    {
+      "platform": "X-Box",
+      "id": 12
+    },
+    {
+      "platform": "X-Box 360",
+      "id": 13
+    },
+    {
+      "platform": "X-Box One",
+      "id": 14
+    },
+    {
+      "platform": "X-Box Series",
+      "id": 15
+    },
+    {
+      "platform": "Game Boy",
+      "id": 16
+    },
+    {
+      "platform": "Nintendo DS",
+      "id": 17
+    },
+    {
+      "platform": "Teste",
+      "id": 18
+    }
+  ],
+  "category": [
+    {
+      "id": 0,
+      "category": "Platform"
+    },
+    {
+      "category": "Adventure",
+      "id": 1
+    },
+    {
+      "category": "Action",
+      "id": 2
+    },
+    {
+      "category": "Puzzle",
+      "id": 3
+    },
+    {
+      "category": "Fighting",
+      "id": 4
+    },
+    {
+      "category": "RPG",
+      "id": 5
+    },
+    {
+      "category": "Survival Horror",
+      "id": 6
+    },
+    {
+      "category": "Shooter",
+      "id": 7
+    },
+    {
+      "category": "FPS",
+      "id": 8
+    },
+    {
+      "category": "Music",
+      "id": 9
+    },
+    {
+      "category": "Racing",
+      "id": 10
+    },
+    {
+      "category": "Sport",
+      "id": 11
+    },
+    {
+      "category": "Simulator",
+      "id": 12
+    },
+    {
+      "category": "Card & Board Game",
+      "id": 13
+    },
+    {
+      "category": "Visual Novel",
+      "id": 14
+    },
+    {
+      "category": "Hack & Slash",
+      "id": 15
+    }
+  ]
+}
